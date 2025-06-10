@@ -56,9 +56,11 @@ NOTE: I have tried to include as many external dependencies here as possible (an
 - **fooof_unpack_results.m:** Results unpacking for FOOOF. **external code**
 
 ### Data Files (.mat, .csv, .xlsx)
-#### Experiment 2 data from Zenodo archive (https://zenodo.org/records/4541463)
+#### Experiment 2 data from Zenodo archives 
 - **Overview_Participants.xlsx:** 
-- **dataset_differencesT3T4.csv:** 
+- **dataset_differencesT3T4.csv:**
+- **Data_traces.mat**
+- **time_traces_data_manuscript.mat**
 
 #### Statistical learning frequency tagging results (Experiment 1)
 - **SL_fetal_stats_out.csv:** Experimental frequency output for fetal statistical learning frequency tagging analysis
@@ -73,13 +75,10 @@ NOTE: I have tried to include as many external dependencies here as possible (an
 #### MATLAB workspace data
 
 - **Alltable.mat**
-- **Data_traces.mat**
 - **stat_learning_output_06-Feb-2025.mat**
 - **stat_learning_output_embedded_pattern_06-Feb-2025.mat**
-- **time_traces_data_manuscript.mat**
-
 - **stat_learn_hrv.mat:** 
 - **stat_learning_demo_vars.mat:** 
-- **stat_learning_freqtag_fetal_14-Apr-2025.mat:** 
+- **stat_learning_freqtag_fetal_14-Apr-2025.mat:** Too large to upload to Github but can be reproduced using the other code and data
 - **stat_learning_hrv_26-Mar-2025.mat:** 
 

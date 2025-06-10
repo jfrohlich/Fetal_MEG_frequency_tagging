@@ -20,7 +20,7 @@ function [pow,foi] = ro_freq_wavelet_TFT2(dat,cfg)
 % 9.7.2016, Joerg Hipp
 % 30.5.2017, Joerg Hipp, return foi_target instead of foi
 % 02.02.2019, Joel Frohich, modified so that no averaging across time
-% [later data], Joel Frohlich, modified so that frequency is linearly
+% [03.02.2025], Joel Frohlich, modified so that frequency is linearly
 % spaced [NOT log spaced]
 
 % senity checks

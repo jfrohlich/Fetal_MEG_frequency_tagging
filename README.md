@@ -50,10 +50,6 @@ NOTE: I have tried to include as many external dependencies here as possible (an
 - **powernoise.m:** Generates power law noise.
 - **ft_topoplotER_JF.m:** Modified Fieldtrip function for topographic plotting.
 - **topoplot_common_JF.m:** Modified Fieldtrip function for topographic plotting.
-- **fooof.m:** FOOOF (Fitting Oscillations & One Over F) algorithm for spectral parameterization. **external code**
-- **fooof_check_settings.m:** Settings validation for FOOOF. **external code**
-- **fooof_get_model.m:** Model extraction for FOOOF. **external code**
-- **fooof_unpack_results.m:** Results unpacking for FOOOF. **external code**
 
 ### Data Files (.mat, .csv, .xlsx)
 #### Experiment 2 data from Zenodo archives 

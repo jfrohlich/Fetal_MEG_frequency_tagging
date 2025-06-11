@@ -75,10 +75,9 @@ NOTE: I have tried to include as many external dependencies here as possible (an
 #### MATLAB workspace data
 
 - **Alltable.mat**
-- **stat_learning_output_06-Feb-2025.mat**
-- **stat_learning_output_embedded_pattern_06-Feb-2025.mat**
+- **stat_learning_output_RMS_27-May-2025.mat**
+- **stat_learning_output_RMS_embedded_pattern_27-May-2025.mat**
 - **stat_learn_hrv.mat:** 
 - **stat_learning_demo_vars.mat:** 
-- **stat_learning_freqtag_fetal_14-Apr-2025.mat:** Too large to upload to Github but can be reproduced using the other code and data
 - **stat_learning_hrv_26-Mar-2025.mat:** 
 

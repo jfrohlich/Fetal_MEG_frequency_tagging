@@ -2,7 +2,7 @@
 Code for the analyses of fetal and neonatal MEG in Frohlich et al. 2025 BioRxiv
 https://www.biorxiv.org/content/10.1101/2025.06.06.658307v1
 
-Last updated 2025-06-10
+Last updated 2025-06-11
 
 Experiment 2 of this project uses archived data from Moser et al. 2020 (https://zenodo.org/records/4018827) and Moser et al. 2021 (https://zenodo.org/records/4541463). Please visit those archives on Zenodo for the corresponding data. Data from Experiment 1 will be uploaded at the time of publication. 
 
